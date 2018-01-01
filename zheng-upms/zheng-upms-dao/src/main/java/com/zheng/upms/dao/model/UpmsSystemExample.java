@@ -518,8 +518,8 @@ public class UpmsSystemExample implements Serializable {
         }
 
         public Criteria andNameEqualTo(String value) {
-            addCriterion("name =", value, "name");
-            return (Criteria) this;
+                addCriterion("name =", value, "name");
+                return (Criteria) this;
         }
 
         public Criteria andNameNotEqualTo(String value) {
