@@ -23,17 +23,19 @@
         <module>zheng-common</module>
 
         <module>zheng-upms</module>
-        <module>zheng-cms</module>
+
         <module>zheng-ucenter</module>
 
         <module>zheng-api</module>
-        <module>zheng-demo</module>
-        <!--
-         <module>zheng-oss</module>
-            <module>zheng-cms</module>
-        <module>zheng-pay</module>
+        <module>zheng-oss</module>
+        <!--  <module>zheng-demo</module>
 
-        <module>zheng-wechat</module>
-        <module>zheng-shop</module>-->
+
+             <module>zheng-cms</module>
+         <module>zheng-pay</module>
+
+         <module>zheng-wechat</module>
+         <module>zheng-shop</module>-->
+
     </modules>
 </project>
