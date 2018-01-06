@@ -16,6 +16,7 @@
         - [资源下载](#%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD)
     - [开发指南:](#%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
         - [修改本地Host](#%E4%BF%AE%E6%94%B9%E6%9C%AC%E5%9C%B0host)
+        - [修改数据库(upms_system)Host](#%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E5%BA%93upmssystemhost)
         - [编译流程](#%E7%BC%96%E8%AF%91%E6%B5%81%E7%A8%8B)
         - [启动顺序（后台）](#%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%EF%BC%88%E5%90%8E%E5%8F%B0%EF%BC%89)
     - [演示地址](#%E6%BC%94%E7%A4%BA%E5%9C%B0%E5%9D%80)
@@ -231,6 +232,12 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 - 127.0.0.1	oss.zhangshuzheng.cn
 - 127.0.0.1 config.zhangshuzheng.cn
 
+### 修改数据库(upms_system)Host
+- 127.0.0.1	upms.zhangshuzheng.cn
+- 127.0.0.1	cms.zhangshuzheng.cn
+- 127.0.0.1	pay.zhangshuzheng.cn
+- 127.0.0.1	ucenter.zhangshuzheng.cn
+- 127.0.0.1	oss.zhangshuzheng.cn
 
 ### 编译流程
 

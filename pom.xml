@@ -28,6 +28,7 @@
 
         <module>zheng-api</module>
         <module>zheng-oss</module>
+        <module>zheng-cms</module>
         <!--  <module>zheng-demo</module>
 
 
