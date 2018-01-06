@@ -240,8 +240,8 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 - 127.0.0.1	oss.zhangshuzheng.cn
 
 ### 编译流程
-
-maven编译安装zheng/pom.xml文件即可.编译过程 **Intelij IDEA ->view->Tool Windows->maven project->zheng->Liftcycle->install**
+- maven 配置按照这个教程进行操作[https://www.jianshu.com/p/b2fb42e17b58](https://www.jianshu.com/p/b2fb42e17b58)
+- maven编译安装zheng/pom.xml文件即可.编译过程 **Intelij IDEA ->view->Tool Windows->maven project->zheng->Liftcycle->install**
 
 ### 启动顺序（后台）
 
