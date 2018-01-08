@@ -231,6 +231,7 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 - 127.0.0.1	api.zhangshuzheng.cn
 - 127.0.0.1	oss.zhangshuzheng.cn
 - 127.0.0.1 config.zhangshuzheng.cn
+- 大部分已经修改
 
 ### 修改数据库(upms_system)Host
 - 127.0.0.1	upms.zhangshuzheng.cn
