@@ -1,0 +1,12 @@
+com\zheng\ucenter\rpc\api\UcenterUserServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterUserDetailsService.class
+com\zheng\ucenter\rpc\api\UcenterApiService.class
+com\zheng\ucenter\rpc\api\UcenterOauthService.class
+com\zheng\ucenter\rpc\api\UcenterUserLogServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterApiServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterOauthServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterUserDetailsServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterUserLogService.class
+com\zheng\ucenter\rpc\api\UcenterUserOauthService.class
+com\zheng\ucenter\rpc\api\UcenterUserOauthServiceMock.class
+com\zheng\ucenter\rpc\api\UcenterUserService.class

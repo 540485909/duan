@@ -1,0 +1,11 @@
+com\zheng\upms\client\util\RequestParameterUtil.class
+com\zheng\upms\client\util\SerializableUtil.class
+com\zheng\upms\client\shiro\filter\UpmsAuthenticationFilter.class
+com\zheng\upms\client\shiro\session\UpmsSession$OnlineStatus.class
+com\zheng\upms\client\shiro\session\UpmsSessionFactory.class
+com\zheng\upms\client\shiro\filter\UpmsSessionForceLogoutFilter.class
+com\zheng\upms\client\shiro\session\UpmsSessionDao.class
+com\zheng\upms\client\interceptor\LogAspect.class
+com\zheng\upms\client\shiro\listener\UpmsSessionListener.class
+com\zheng\upms\client\shiro\session\UpmsSession.class
+com\zheng\upms\client\shiro\realm\UpmsRealm.class

@@ -27,5 +27,6 @@
         <module>zheng-ucenter</module>
         <module>zheng-api</module>
         <module>zheng-demo</module>
+        <module>zheng-mydemo</module>
     </modules>
 </project>

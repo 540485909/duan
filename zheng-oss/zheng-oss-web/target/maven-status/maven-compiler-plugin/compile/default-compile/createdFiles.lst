@@ -1,0 +1,4 @@
+com\zheng\oss\web\QiniuDemo.class
+com\zheng\oss\web\controller\DemoController.class
+com\zheng\oss\web\controller\AliyunOssController.class
+com\zheng\oss\web\service\AliyunOssService.class
